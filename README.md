@@ -17,7 +17,7 @@ A Tampermonkey script for Bilibili live streaming, used to record and manage Sup
 ## ⚙️ 安装方法
 
 1.  确保您的浏览器已安装 Tampermonkey 扩展程序（或类似的用户脚本管理器）。
-2.  点击 [sxwz]，选择安装。
+2.  点击 [recorder.js]，选择安装。
 3.  进入任意 Bilibili 直播间即可看到 SC 记录面板。
 
 ## 📜 许可证 (License)
