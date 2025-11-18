@@ -1,8 +1,8 @@
 # Bilibili-Live-Superchat-Recorder
 A Tampermonkey script for Bilibili live streaming, used to record and manage Super Chat messages.
-# Bilibili Live Superchat Recorder (B站四禧丸子直播间醒目留言记录板)
+# Bilibili Live Superchat Recorder (B站直播间醒目留言记录板)
 
-这是一个用于 Bilibili 直播间的 Tampermonkey 油猴脚本，旨在记录、管理和优化 Super Chat（醒目留言）的显示。
+这是一个用于 Bilibili 直播间的 Tampermonkey 油猴脚本，旨在记录、管理和优化[丸河系]虚拟主播 Super Chat（醒目留言）的显示。
 
 此项目基于 [Bilibili Live] 的稳定逻辑和 UI 样式进行优化。
 
